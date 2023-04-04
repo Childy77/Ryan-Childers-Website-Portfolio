@@ -6,11 +6,13 @@
 .header-nav {
   display: flex;
   justify-content: space-between;
-  background-color: gray;
+  background-image: linear-gradient(to right, #DECBA4, #3E5151);
 }
 
 header h1 {
   display: inline;
+  padding: 10px;
+  font-size: 50px;
 }
 
 .top-menu {
@@ -29,13 +31,13 @@ header h1 {
 
 .main-content {
   text-align: left;
-  background-image: linear-gradient(to right, white, purple);
-  border-top: 10px, solid, red;
+  color: white;
+  background-image: linear-gradient(to right, #0f0c29, #302b63, #24243e);
 }
 
 .products {
   flex: 4;
-  background-image: linear-gradient(red, purple);
+  background-image: linear-gradient(to right, #0f0c29, #302b63, #24243e);
   padding: 50px;
   display: flex;
   flex-wrap: wrap;

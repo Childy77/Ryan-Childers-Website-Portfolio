@@ -12,3 +12,4 @@ const WorksCard = (props) => {
 
     )
 }
+export default WorksCard

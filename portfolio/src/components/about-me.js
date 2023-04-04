@@ -3,7 +3,7 @@ import headshot from "../assets/Headshot1.jfif";
 
 const AboutMe = () => {
     return(
-        <section class="main-content" id="about-me">
+        <section className="main-content" id="about-me">
         
         <img src={headshot} alt="A picture of Ryan" class="headshot"/>
 
