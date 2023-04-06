@@ -1,4 +1,5 @@
-import logo from './logo.svg';
+// import logo from './logo.svg';
+import Footer from './components/footer';
 import './App.css';
 import Navbar from './components/navbar';
 import AboutMe from './components/about-me';
@@ -10,6 +11,7 @@ function App() {
     <Navbar/>
     <AboutMe/>
     <Work/>
+    <Footer/>
     </>
   );
 }
