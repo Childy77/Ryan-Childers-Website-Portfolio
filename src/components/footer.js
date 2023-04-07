@@ -7,6 +7,8 @@ const Footer = () => {
         <h2>425-293-4506</h2>
         <h2>ryanbairdchilders@gmail.com</h2>
         <h2>Github</h2>
+        
+    
     </section>
 
     <footer>

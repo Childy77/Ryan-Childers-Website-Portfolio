@@ -8,7 +8,7 @@ const AboutMe = () => {
         <img src={headshot} alt="A picture of Ryan" class="headshot"/>
 
         <p>
-            Ryan Childers is an aspiring coder.  He spent 20 years as a professional actor and intructor, but now wants to pursue a life with a better pay schedule to fit his family needs.
+            I'm Ryan Childers. I am a recent graduate of the University of Washington Coding Bootcamp.  I spent 20 years as a professional actor and intructor of the arts, so I know that the look of any website matters greatly.  When we open any webpage, we want to be immediatley be pleased by what we see.  The look of any website should intall trust in whatever service that business is providing.  I love creating that perfect look.
         </p>
 
         </section>

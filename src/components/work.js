@@ -1,9 +1,9 @@
 import React from "react";
 // import Works from "../works.json";
 import WorksCard from "./works-card";
-import Nature from "../images/nature.jpg"
-import Office from "../images/virtual-office.jpg"
-import Seas from "../images/High-Seas-AdobeStock_520103947-700x400.jpeg"
+import Schedular from "../images/Schedular.jpg"
+import Password from "../images/Password.jpg"
+import Barometer from "../images/Barometer.jpg"
 import Workout from "../images/new-project-2023-02-06t080712.245-1.jpg"
 const Works = [
 
@@ -15,21 +15,21 @@ const Works = [
         description: "A man running"
     },
     {
-        worksHeader: "Works",
-        workslink: "https://.app",
-        image: Seas,
+        worksHeader: "Weather Tracker",
+        workslink: "https://childy77.github.io/US-Weather-Tracker/",
+        image: Barometer,
+        description: "A picture of a Barometer"
+    },
+    {
+        worksHeader: "Password Generator",
+        workslink: "https://childy77.github.io/Ryan-Childers-Password-Generator/",
+        image: Password,
         description: "description goes here"
     },
     {
-        worksHeader: "Works",
-        workslink: "https://.app",
-        image: Office,
-        description: "description goes here"
-    },
-    {
-        worksHeader: "Works",
-        workslink: "https://.app",
-        image: Nature,
+        worksHeader: "Work Day Schedular",
+        workslink: "https://childy77.github.io/Amazing-Work-Day-Scheduler/",
+        image: Schedular,
         description: "description goes here"
     }
 ]
