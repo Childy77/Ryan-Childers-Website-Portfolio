@@ -18,8 +18,12 @@ header h1 {
 }
 
 .top-menu {
+  padding-top: 25px;
+}
 
-  color: red;
+.top-menu ul li a {
+
+  
   text-align: right;
   padding: 20px;
   color: white;
@@ -28,6 +32,7 @@ header h1 {
 }
 
 .top-menu ul li {
+  
   display: inline;
   margin: 0px, 5px, 0px, 5px;
   font-size: 20px;
