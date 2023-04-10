@@ -6,7 +6,7 @@ const Footer = () => {
         <section className="bottom-info" id="contact">
         <h2>425-293-4506</h2>
         <h2>ryanbairdchilders@gmail.com</h2>
-        <h2>Github/Childy77</h2>
+        <h2><i className="fa-brands fa-github"></i>Github/Childy77</h2>
         
     
     </section>
