@@ -9,7 +9,7 @@ const Works = [
 
     // Add URL Links
     {
-        worksHeader: "Takiwatanga",
+        worksHeader: "Takiwatanga:",
         workslink: "https://intense-cove-24151.herokuapp.com/",
         image: Workout,
         description: "A man running"

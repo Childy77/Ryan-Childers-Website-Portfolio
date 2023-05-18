@@ -124,3 +124,12 @@ p {
   background-image: linear-gradient(to right, #DECBA4, #3E5151);
   padding: 20px;
 }
+
+.works-below {
+  text-decoration: underline;
+}
+
+.work-title {
+  text-decoration: solid;
+  font-style: italic;
+}
