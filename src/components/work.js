@@ -4,14 +4,14 @@ import WorksCard from "./works-card";
 import Schedular from "../images/Schedular.jpg"
 import Password from "../images/Password.jpg"
 import Barometer from "../images/Barometer.jpg"
-import Workout from "../images/new-project-2023-02-06t080712.245-1.jpg"
+import Autism from "../images/Hope.png"
 const Works = [
 
     // Add URL Links
     {
         worksHeader: "Takiwatanga:",
         workslink: "https://intense-cove-24151.herokuapp.com/",
-        image: Workout,
+        image: Autism,
         description: "A man running"
     },
     {

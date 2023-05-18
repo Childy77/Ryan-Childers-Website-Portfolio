@@ -14,24 +14,34 @@ const AboutMe = () => {
         <h1 className="works-below">My Works Below:</h1>
         <br></br>
         <h1 className="work-title">Takiwatanga:</h1>  
-        <h3>-A social media site for people with family member dealing with special needs</h3>
-            <li>Github: https://github.com/Childy77/Takiwatanga </li>
-            <li>Tech used: React, HTML, CSS, JavaScript </li>
+        <h3>-A social media site for people with family members with special needs.  This is still a work in progress.</h3>
+            <li>
+                <a href="https://github.com/Childy77/Takiwatanga">Site Github Page</a>
+            </li>
+            <li>Tech used: React, HTML, CSS, JavaScript, Bootstrap, MongoDB, and Express </li>
         
         <h1 className="work-title">Weather Tracker:</h1>
-            <h3>-Class challenge where I had to build a weather tracker from scratch</h3>
-            <li>Github: https://github.com/Childy77/US-Weather-Tracker </li>
-            <li>Tech used: HTML, CSS, JavaScript, API's </li>
+            <h3>-Class challenge where I had to build a weather tracker from scratch using API's.</h3>
+            <li>
+                <a href="https://github.com/Childy77/US-Weather-Tracker">Site Github Page</a>
+            </li>
+            <li>Tech used: HTML, CSS, JavaScript, Bootstrap, and API's </li>
         
         <h1 className="work-title">Password Generator:</h1>
-            <h3>-Class challenge where I had to creat a random password generator including numbers, letters, and symbols</h3>
-            <li>Github: https://github.com/Childy77/Ryan-Childers-Password-Generator </li>
-            <li>Tech used: HTML, CSS, JavaScript </li>
+            <h3>-Class challenge where I had to creat a random password generator including numbers, letters, and symbols.</h3>
+            <li>
+                <a href="https://github.com/Childy77/Ryan-Childers-Password-Generator">Site Github Page</a>
+
+            </li>
+            <li>Tech used: HTML, CSS, and JavaScript </li>
         
         <h1 className="work-title">Work Day Schedular:</h1>
-        <h3>-Class challenge where I had to create a online day schedular for all purposes</h3>
-            <li>Github: https://github.com/Childy77/Amazing-Work-Day-Scheduler </li>
-            <li>Tech used: HTML, CSS, JavaScript </li>
+        <h3>-Class challenge where I had to create a online day schedular for all purposes.</h3>
+            <li>
+                <a href="https://github.com/Childy77/Amazing-Work-Day-Scheduler">Site Github Page</a>
+
+            </li>
+            <li>Tech used: HTML, CSS, and JavaScript </li>
         
 
 
