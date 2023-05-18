@@ -17,7 +17,8 @@ const Footer = () => {
         <i class="fa-brands fa-linkedin"></i>linkedin</a>
         </h2>
         <h2>
-        <a href="https://docs.google.com/document/d/1_R8-1EVNYQDReYk4vAyLW7H1mvukf2OX9r5Wj8t56gI/edit">
+        {/* <a href="https://docs.google.com/document/d/1_R8-1EVNYQDReYk4vAyLW7H1mvukf2OX9r5Wj8t56gI/edit"> */}
+        <a href="https://docs.google.com/document/d/e/2PACX-1vTgJ8JKYKzzP35tQumx8Za0GN-p02eYvzUTJ_eETVsxdO-v7np57gv6DIGD1kCpYS4Q1dYzMgkUdd0K/pub">
         <i class="fa-solid fa-file"></i>Resume</a>
         </h2>
     
